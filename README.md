@@ -1,0 +1,1 @@
+Day 1: done basics of python + data analysis with python grinding the weekend very tough!
